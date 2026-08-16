@@ -40,14 +40,14 @@ I'm a CS graduate from Pace University who never really picked a lane, so I stop
 | [**LedgerLite**](https://github.com/foledibe/LedgerLite) | A little relational database that knows who your best customers are |
 | [**Revenue Radar**](https://github.com/foledibe/Revenue-Radar) | Power BI dashboard that turns messy spreadsheets into answers |
 | [**OrbitView Dashboard**](https://github.com/foledibe/OrbitView-Dashboard) | Terminal dashboard tracking the ISS in real time, because why not |
-| [**PixelPantry**](https://github.com/foledibe/PixelPantry) | A recipe site I built and actually shipped — live on AWS |
+| [**PixelPantry**](https://github.com/foledibe/PixelPantry) | A recipe site I built and actually shipped - live on AWS |
 | [**Weather App**](https://github.com/foledibe/Weather-App) | Tells you if you need a jacket, from the command line |
 
 
 ## 💗 Off The Clock
 
-- **Co-founder, HADWA** — a nonprofit tackling the STEM education gap across West Africa, now running real programs through a partnership with Virginia Tech
-- **Technica Fellow (alum)** — part of a cohort of women who talked their way into rooms that weren't built for them yet
+- **Co-founder, HADWA** - a nonprofit tackling the STEM education gap across West Africa, now running real programs through a partnership with Virginia Tech
+- **Technica Fellow (alum)** - part of a cohort of women who talked their way into rooms that weren't built for them yet
 
 The rest of the time you'll find me on a film set, behind a sewing machine, or repainting the same corner of a canvas I *swore* I'd finish last weekend.
 
