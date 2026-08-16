@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.svg" alt="Fiorella Oledibe" width="100%" />
+  <img src="./banner (2).svg" alt="Fiorella Oledibe" width="100%" />
 </p>
 
 <p align="center">
